@@ -1,4 +1,4 @@
 #! /bin/sh
-msg="Hello, world!"
+msg="Hello, whole world!"
 echo $msg
 
